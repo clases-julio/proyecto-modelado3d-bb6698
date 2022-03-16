@@ -1,3 +1,6 @@
-# proyecto-modelado3d-bb6698
+# BB6
 
-![image](https://user-images.githubusercontent.com/73492480/158479041-fafc77ec-1294-40ce-87fc-414c4fd94ece.png)
+# Introduccion
+Desarrollaremos un robot de libre opcion para la asignatura de Modelado y Simulacion para Robots. 
+# Idea
+En primer lugar 
